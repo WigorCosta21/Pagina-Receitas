@@ -1,3 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(assets/bg-image.jpg);
+    background-size: cover;
+}
+
+#page {
+    width: 800px;
+    padding: 1.5rem;
+    background-color: #F0E8C2;
+    border-radius: 24px;
+    margin: 3rem auto;
+}
+
 img {
     border-radius: 16px;
 }
